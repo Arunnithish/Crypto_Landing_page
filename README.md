@@ -6,7 +6,11 @@ A modern landing page built wih react which has listed top 6 crypto along with i
 
 ## Desktop preview
 
+<<<<<<< HEAD
 ![Destop-preview](crypto API Website\crypto_api\src\design)
+=======
+![Destop-preview](./src/design/desktop-preview.jpg)
+>>>>>>> 41576c278a02240343b976afb395e8a6532630e7
 
 # Getting Started with Create React App
 
