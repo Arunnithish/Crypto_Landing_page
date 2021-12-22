@@ -6,7 +6,7 @@ A modern landing page built wih react which has listed top 6 crypto along with i
 
 ## Desktop preview
 
-![Destop-preview](./design/desktop-preview.jpg)
+![Destop-preview](../design/desktop-preview.jpg)
 
 # Getting Started with Create React App
 
